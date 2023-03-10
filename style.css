@@ -41,6 +41,10 @@ input {
   border-radius: 2px;
 }
 
+input:focus {
+  background-color: #e4e4e4;
+}
+
 #button {
   margin: 20px;
   background-color: #eeeeee;
